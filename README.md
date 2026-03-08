@@ -1,3 +1,5 @@
 Proyek ini berasal dari lomba Kaggle DAC 2024 yang bertujuan memprediksi produksi energi surya berdasarkan berbagai faktor lingkungan dan cuaca menggunakan pendekatan machine learning. Proses analisis mencakup data preprocessing, penanganan missing values menggunakan metode K-Nearest Neighbor (KNN), analisis korelasi antar variabel, serta pembangunan model prediksi menggunakan Random Forest Regression. Dataset yang digunakan berisi variabel lingkungan seperti suhu, kelembaban, intensitas radiasi matahari, dan waktu pengukuran.
 
 Hasil analisis menunjukkan bahwa kelembaban, waktu dalam sehari, dan Solar Zenith Angle merupakan faktor yang paling berpengaruh terhadap produksi energi surya. Model Random Forest yang dibangun mampu memprediksi nilai produksi energi dengan cukup baik dengan nilai RMSE sekitar 0,079. Analisis feature importance juga digunakan untuk mengidentifikasi variabel yang paling berkontribusi terhadap hasil prediksi.
+
+https://www.kaggle.com/competitions/preliminary-round-dac-prs-2024/leaderboard (52 dari 135 tim)
