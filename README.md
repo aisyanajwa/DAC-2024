@@ -1,4 +1,4 @@
-# Prediksi Produksi Energi Surya
+# DAC 2024 | Solar Energy Production Prediction with Machine Learning
 
 Proyek ini dikembangkan dalam rangka mengikuti **Data Analysis Competition (DAC) 2024** yang diselenggarakan oleh **Institut Teknologi Sepuluh Nopember (ITS)**. Kompetisi ini menguji kemampuan peserta dalam menganalisis dataset dan membangun model prediksi menggunakan metode data science dan machine learning.
 
